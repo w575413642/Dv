@@ -1,0 +1,1 @@
+export default {"routers":[{"path":"first"},{"path":"test"},{"path":"xxxx","children":{"path":"xxxx/rt"}}],"menus":["first","test","xxxx","xxxx/rt"]}
